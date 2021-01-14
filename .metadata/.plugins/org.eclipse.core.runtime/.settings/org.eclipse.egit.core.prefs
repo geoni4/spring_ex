@@ -1,0 +1,5 @@
+GitRepositoriesView.GitDirectories=D\:\\spring_ex\\git\\gs-serving-web-content\\.git;D\:\\spring_ex\\gs-accessing-data-mysql\\.git;D\:\\spring_ex\\gs-accessing-data-rest\\.git;D\:\\spring_ex\\gs-accessing-data-jpa\\.git;
+GitRepositoriesView.GitDirectories.relative=git\\gs-serving-web-content\\.git;gs-accessing-data-mysql\\.git;gs-accessing-data-rest\\.git;gs-accessing-data-jpa\\.git;
+RepositoryGroups.uuids=
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
